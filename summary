@@ -1,0 +1,17 @@
+==> logs/output128.log <==
+[0 - 7f2b3401d740]   59.526602 {3}{RequestManager}: [Profile] guid(1000000) decoding_steps(53) start(53835346.0) finish(59526595.0) latency(5691249.0)
+
+==> logs/output256.log <==
+[0 - 7efb7401d740]   61.329185 {3}{RequestManager}: [Profile] guid(1000000) decoding_steps(74) start(53251413.0) finish(61329179.0) latency(8077766.0)
+
+==> logs/output512.log <==
+[0 - 7f9534011740]   88.857395 {3}{RequestManager}: [Profile] guid(1000000) decoding_steps(330) start(52855505.0) finish(88857388.0) latency(36001883.0)
+
+==> logs/output1024.log <==
+[0 - 7fe1b8042740]  104.595934 {3}{RequestManager}: [Profile] guid(1000000) decoding_steps(462) start(53418349.0) finish(104595927.0) latency(51177578.0)
+
+==> logs/output2048.log <==
+[0 - 7f67c0066740]  118.564508 {3}{RequestManager}: [Profile] guid(1000000) decoding_steps(576) start(54163763.0) finish(118564501.0) latency(64400738.0)
+
+==> logs/output4096.log <==
+[0 - 7f581007e740]  150.171742 {3}{RequestManager}: [Profile] guid(1000000) decoding_steps(804) start(54891935.0) finish(150171735.0) latency(95279800.0)

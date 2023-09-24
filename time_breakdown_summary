@@ -1,0 +1,18 @@
+For file logs/output1024.log:
+  Total time period for LLMslock SSMs: 8791.83904006396ms
+  Total time period for LLMslock LLMs: 29353.87214457207ms
+For file logs/output128.log:
+  Total time period for LLMslock SSMs: 994.305280006864ms
+  Total time period for LLMslock LLMs: 2910.842224117492ms
+For file logs/output2048.log:
+  Total time period for LLMslock SSMs: 11350.226864239563ms
+  Total time period for LLMslock LLMs: 40025.97928106363ms
+For file logs/output256.log:
+  Total time period for LLMslock SSMs: 1404.1936799945322ms
+  Total time period for LLMslock LLMs: 4129.160704118529ms
+For file logs/output4096.log:
+  Total time period for LLMslock SSMs: 17298.857776310895ms
+  Total time period for LLMslock LLMs: 71315.86652929096ms
+For file logs/output512.log:
+  Total time period for LLMslock SSMs: 6261.361887992415ms
+  Total time period for LLMslock LLMs: 20168.88739241741ms
